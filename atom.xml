@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>Hypobenthos</title>
+    <updated>2020-01-28T10:55:01.009Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2020, Hypobenthos</rights>
+    <entry>
+        <title type="html"><![CDATA[使用入门: 接收文件]]></title>
+        <id>http://localhost:4000/shi-yong-bang-zhu-jie-shou-wen-jian</id>
+        <link href="http://localhost:4000/shi-yong-bang-zhu-jie-shou-wen-jian">
+        </link>
+        <updated>2020-01-28T10:17:57.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>从其他设备接收文件  📱📲<br>
+操作应用版本: iOS v2.0.1</p>
+</blockquote>
+<h2 id="在首页点击接收按钮">在首页点击接收按钮</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_0.PNG" alt="" width="320" loading="lazy"></p>
+<h2 id="选择正在发送的设备">选择正在发送的设备</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_1.PNG" alt="" width="320" loading="lazy"></p>
+<h2 id="查看下载中和已下载的任务">查看下载中和已下载的任务</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_2.PNG" alt="" width="320" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用入门: 发送文件]]></title>
+        <id>http://localhost:4000/send-file</id>
+        <link href="http://localhost:4000/send-file">
+        </link>
+        <updated>2020-01-26T12:14:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>发送文件至其他设备  📱📲<br>
+操作应用版本: iOS v2.0.1</p>
+</blockquote>
+<h2 id="选择需要发送的文件">选择需要发送的文件</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_0.PNG" alt="" width="320" loading="lazy"></p>
+<h2 id="确认发送的文件">确认发送的文件</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_1.PNG" alt="" width="320" loading="lazy"></p>
+<h2 id="选择发送方式指定设备-开放发送-文件列表">选择发送方式(指定设备, 开放发送, 文件列表)</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_2.PNG" alt="" width="320" loading="lazy"></p>
+<h2 id="等待接收设备接收">等待接收设备接收</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_3.PNG" alt="" width="320" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用帮助]]></title>
+        <id>http://localhost:4000/help</id>
+        <link href="http://localhost:4000/help">
+        </link>
+        <updated>2020-01-02T12:11:14.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>🐙</p>
+</blockquote>
+<ul>
+<li><a href="/download">章鱼快传下载</a></li>
+<li><a href="/send-file">使用章鱼快传发送文件</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[客户端下载]]></title>
+        <id>http://localhost:4000/download</id>
+        <link href="http://localhost:4000/download">
+        </link>
+        <updated>2020-01-02T09:52:58.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>最新版本的客户端下载</p>
+</blockquote>
+<h1 id="android版">Android版</h1>
+<p>最新版本: 1.0.3。您可以去<a href="https://play.google.com/store/apps/details?id=com.hypobenthos.octofile">Google Play下载</a>或者直接<a href="https://github.com/hypobenthos/OctofileAndroid/releases/latest/download/octofile.apk">下载APK</a></p>
+<h1 id="ios版">iOS版</h1>
+<p>最新版本: 2.0.1。您可以去<a href="https://itunes.apple.com/us/app/%E7%AB%A0%E9%B1%BC%E5%BF%AB%E4%BC%A0/id1462608349?l=zh&amp;ls=1&amp;mt=8">App Store下载</a></p>
+<h1 id="mac版">Mac版</h1>
+<p>最新版本: 1.0.3。您可以去<a href="https://itunes.apple.com/cn/app/%E7%AB%A0%E9%B1%BC%E5%BF%AB%E4%BC%A0/id1463726615?mt=12">App Store下载</a></p>
+<h1 id="windows版">Windows版</h1>
+<p>开发中, 暂无下载地址</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传隐私政策]]></title>
+        <id>http://localhost:4000/octofile-privacy-policy</id>
+        <link href="http://localhost:4000/octofile-privacy-policy">
+        </link>
+        <updated>2020-01-01T10:02:15.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>本文内容中所涉及的三方品牌及标识提及均为文字引用, 与相关品牌及商标无关。<br>
+本应用非常重视您的隐私, 使用过程中所产生的文档数据只会存储在设备本地。我们使用Firebase Analytics 上传部分统计用数据和使用Crashlytics 上传崩溃相关的分析数据。</p>
+</blockquote>
+<h2 id="我们收集的个人信息">我们收集的个人信息</h2>
+<ul>
+<li>安装UUID</li>
+<li>IP 地址</li>
+<li>应用崩溃信息</li>
+<li>广告标识符</li>
+</ul>
+<h2 id="我们访问的个人信息">我们访问的个人信息</h2>
+<ul>
+<li>设备上的文件访问和写入权限, 用于文件传输和存储文件至设备</li>
+<li>相册的访问, 当应用需要选择文件进行传输时, 应用会向用户请求授权读取的权限</li>
+<li>相册的写入, 当应用需要保存文件到相册时, 应用会向用户请求授权写入的权限</li>
+<li>相机的访问, 当应用需要通过相机来扫描二维码获取连接信息时, 应用会向用户请求授权相机的访问权限</li>
+</ul>
+<p>我们可能随时对隐私政策进行更新。如果隐私政策作出重大变更，我们将在 App 内通告更新的隐私政策。</p>
+]]></content>
+    </entry>
+</feed>
