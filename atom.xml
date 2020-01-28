@@ -2,13 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://octofile.github.io</id>
     <title>章鱼快传</title>
-    <updated>2020-01-28T16:58:27.835Z</updated>
+    <updated>2020-01-28T17:38:37.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://octofile.github.io"/>
     <link rel="self" href="https://octofile.github.io/atom.xml"/>
     <logo>https://octofile.github.io/images/avatar.png</logo>
     <icon>https://octofile.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 章鱼快传</rights>
+    <entry>
+        <title type="html"><![CDATA[使用入门: 发送文件到Kindle]]></title>
+        <id>https://octofile.github.io/send-file-to-kindle</id>
+        <link href="https://octofile.github.io/send-file-to-kindle">
+        </link>
+        <updated>2020-01-28T17:01:06.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>发送文件到Kindle  📱➡️📓<br>
+操作应用版本: iOS v2.0.1<br>
+Kindle 固件版本 v5.12.2<br>
+Kindle体验版网页浏览器仅支持 <code>.AZW</code>、<code>.PRC</code>、.<code>MOBI</code>或 <code>.TXT</code>文件的下载。</p>
+</blockquote>
+<h2 id="选择需要发送的文件">选择需要发送的文件</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_0.png" alt="" width="320" loading="lazy"></p>
+<h2 id="确认发送的文件">确认发送的文件</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_1.png" alt="" width="320" loading="lazy"></p>
+<h2 id="选择-可下载列表-为发送方式">选择 “可下载列表” 为发送方式</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_2.png" alt="" width="320" loading="lazy"></p>
+<h2 id="等待接收设备接收">等待接收设备接收</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_4.png" alt="" width="320" loading="lazy"></p>
+<h2 id="使用kindle的-体验版浏览器-访问发送设备提供的地址">使用Kindle的 “体验版浏览器” 访问发送设备提供的地址</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_5.png" alt="" width="320" loading="lazy"></p>
+<h2 id="使用kindle选择需要的文件进行下载即可">使用Kindle选择需要的文件进行下载即可</h2>
+<p><img src="" alt="" loading="lazy"><br>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_6.png" alt="" width="320" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用入门: 接收文件]]></title>
         <id>https://octofile.github.io/receive-file</id>
@@ -21,13 +53,13 @@
 </blockquote>
 <h2 id="在首页点击接收按钮">在首页点击接收按钮</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_0.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_0.png" alt="" width="320" loading="lazy"></p>
 <h2 id="选择正在发送的设备">选择正在发送的设备</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_1.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_1.png" alt="" width="320" loading="lazy"></p>
 <h2 id="查看下载中和已下载的任务">查看下载中和已下载的任务</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_2.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/receive_2.png" alt="" width="320" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -42,16 +74,16 @@
 </blockquote>
 <h2 id="选择需要发送的文件">选择需要发送的文件</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_0.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_0.png" alt="" width="320" loading="lazy"></p>
 <h2 id="确认发送的文件">确认发送的文件</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_1.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_1.png" alt="" width="320" loading="lazy"></p>
 <h2 id="选择发送方式指定设备-开放发送-文件列表">选择发送方式(指定设备, 开放发送, 文件列表)</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_2.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_2.png" alt="" width="320" loading="lazy"></p>
 <h2 id="等待接收设备接收">等待接收设备接收</h2>
 <p><img src="" alt="" loading="lazy"><br>
-<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_3.PNG" alt="" width="320" loading="lazy"></p>
+<img src="https://hypobenthos.s3.ap-east-1.amazonaws.com/blog/help/send_3.png" alt="" width="320" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -66,6 +98,8 @@
 <ul>
 <li><a href="/download">章鱼快传下载</a></li>
 <li><a href="/send-file">使用章鱼快传发送文件</a></li>
+<li><a href="/receive-file">使用章鱼快传接收文件</a></li>
+<li><a href="/send-file-to-kindle">使用章鱼快传发送文件到Kindle</a></li>
 </ul>
 ]]></content>
     </entry>
