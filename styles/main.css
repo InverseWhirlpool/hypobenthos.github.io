@@ -1897,3 +1897,27 @@ mark {
   color: #855c0a;
   margin: 0 4px;
 }
+
+      .head, .info,
+      .no-cover,
+      .navigation a,
+      .footer-rss,
+      .item .item-image {
+        background-color: #228be6;
+      }
+
+      .item:hover h2,
+      .prev-post a:hover, .post-archives a:hover {
+        color: #228be6;
+      }
+
+      .tags .tag:hover {
+        border-color: #228be6;
+      }
+
+      .post-content a:hover {
+        color: #228be6;
+        border-color: #228be6;
+      }
+      
+    

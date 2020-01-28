@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://octofile.github.io</id>
-    <title>Hypobenthos</title>
-    <updated>2020-01-28T11:16:04.861Z</updated>
+    <title>章鱼快传</title>
+    <updated>2020-01-28T16:23:48.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://octofile.github.io"/>
     <link rel="self" href="https://octofile.github.io/atom.xml"/>
     <logo>https://octofile.github.io/images/avatar.png</logo>
     <icon>https://octofile.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Hypobenthos</rights>
+    <rights>All rights reserved 2020, 章鱼快传</rights>
     <entry>
         <title type="html"><![CDATA[使用入门: 接收文件]]></title>
-        <id>https://octofile.github.io/shi-yong-bang-zhu-jie-shou-wen-jian</id>
-        <link href="https://octofile.github.io/shi-yong-bang-zhu-jie-shou-wen-jian">
+        <id>https://octofile.github.io/receive-file</id>
+        <link href="https://octofile.github.io/receive-file">
         </link>
         <updated>2020-01-28T10:17:57.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
