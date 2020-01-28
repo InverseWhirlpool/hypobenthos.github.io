@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://octofile.github.io</id>
     <title>Hypobenthos</title>
-    <updated>2020-01-28T10:55:01.009Z</updated>
+    <updated>2020-01-28T11:16:04.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://octofile.github.io"/>
+    <link rel="self" href="https://octofile.github.io/atom.xml"/>
+    <logo>https://octofile.github.io/images/avatar.png</logo>
+    <icon>https://octofile.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hypobenthos</rights>
     <entry>
         <title type="html"><![CDATA[使用入门: 接收文件]]></title>
-        <id>http://localhost:4000/shi-yong-bang-zhu-jie-shou-wen-jian</id>
-        <link href="http://localhost:4000/shi-yong-bang-zhu-jie-shou-wen-jian">
+        <id>https://octofile.github.io/shi-yong-bang-zhu-jie-shou-wen-jian</id>
+        <link href="https://octofile.github.io/shi-yong-bang-zhu-jie-shou-wen-jian">
         </link>
         <updated>2020-01-28T10:17:57.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[使用入门: 发送文件]]></title>
-        <id>http://localhost:4000/send-file</id>
-        <link href="http://localhost:4000/send-file">
+        <id>https://octofile.github.io/send-file</id>
+        <link href="https://octofile.github.io/send-file">
         </link>
         <updated>2020-01-26T12:14:32.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[使用帮助]]></title>
-        <id>http://localhost:4000/help</id>
-        <link href="http://localhost:4000/help">
+        <id>https://octofile.github.io/help</id>
+        <link href="https://octofile.github.io/help">
         </link>
         <updated>2020-01-02T12:11:14.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -71,8 +71,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[客户端下载]]></title>
-        <id>http://localhost:4000/download</id>
-        <link href="http://localhost:4000/download">
+        <id>https://octofile.github.io/download</id>
+        <link href="https://octofile.github.io/download">
         </link>
         <updated>2020-01-02T09:52:58.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -89,9 +89,9 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传隐私政策]]></title>
-        <id>http://localhost:4000/octofile-privacy-policy</id>
-        <link href="http://localhost:4000/octofile-privacy-policy">
+        <title type="html"><![CDATA[隐私政策]]></title>
+        <id>https://octofile.github.io/octofile-privacy-policy</id>
+        <link href="https://octofile.github.io/octofile-privacy-policy">
         </link>
         <updated>2020-01-01T10:02:15.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
